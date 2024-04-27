@@ -1,0 +1,17 @@
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestSharpApp.csproj.AssemblyReference.cache
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestSharpApp.AssemblyInfoInputs.cache
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestSharpApp.AssemblyInfo.cs
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestSharpApp.csproj.CoreCompileInputs.cache
+D:\Assessment\RestSharp\RestSharpApp\bin\Debug\net8.0\RestSharpApp.exe
+D:\Assessment\RestSharp\RestSharpApp\bin\Debug\net8.0\RestSharpApp.deps.json
+D:\Assessment\RestSharp\RestSharpApp\bin\Debug\net8.0\RestSharpApp.runtimeconfig.json
+D:\Assessment\RestSharp\RestSharpApp\bin\Debug\net8.0\RestSharpApp.dll
+D:\Assessment\RestSharp\RestSharpApp\bin\Debug\net8.0\RestSharpApp.pdb
+D:\Assessment\RestSharp\RestSharpApp\bin\Debug\net8.0\RestSharp.dll
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestShar.F74A6AB8.Up2Date
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestSharpApp.dll
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\refint\RestSharpApp.dll
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestSharpApp.pdb
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\RestSharpApp.genruntimeconfig.cache
+D:\Assessment\RestSharp\RestSharpApp\obj\Debug\net8.0\ref\RestSharpApp.dll
